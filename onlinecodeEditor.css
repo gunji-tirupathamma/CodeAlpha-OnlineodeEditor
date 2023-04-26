@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url("https://png.pngtree.com/background/20210715/original/pngtree-abstract-background-technology-of-data-applications-picture-image_1316468.jpg");
+    background-size: cover;
+    margin-bottom: 10px;
+    font-weight: bold;
+    height: 100vh;
+}
+
+.heading {
+    font-family: ital;
+    color: orange;
+    font-size: 50px;
+    align-self: center;
+    margin-bottom: 30px;
+}
+
+.button {
+    border-radius: 10px;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    align-self: center;
+}
+
+.container {
+    background-color: #4f4f4e;
+    background-size: cover;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.left,
+.right {
+    width: 100%;
+    padding: 10px;
+
+}
+
+.text-area {
+    height: 50vh;
+    padding: 5px 10px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: 0px;
+    width: 100%;
+}
+
+.iframe-container {
+    height: 50vh;
+    width: 100%;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 0px;
+}
+
+.label-text {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.icon-image {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+
+}
+
+.description {
+    font-size: 30px;
+    font-family: Roboto;
+    color: #ffffff;
+    align-self: center;
+    margin-top: 10px;
+}
